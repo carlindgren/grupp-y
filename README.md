@@ -1,2 +1,9 @@
 # grupp-y
-gruppövning nummer 2
+gruppövning Todo list
+
+
+- style a form
+- 
+- style a form
+- 
+- javascript

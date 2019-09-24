@@ -1,0 +1,70 @@
+body{
+  margin: 0;  
+}
+li:nth-child(odd){
+  background-color:rgb(215, 215, 215);
+}
+.done {
+  text-decoration: line-through;
+  background-color: rgb(70, 70, 70)
+}
+
+li{
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:rgb(120, 120, 120);
+}
+.container{
+text-align: center;
+background-color: lightgrey;
+padding: 50px;
+}
+#add{
+  padding:5px;
+  background-color: gray;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.remove{
+  padding:5px;
+  background-color: gray;
+  border:none;
+  margin: 5px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li:nth-child(even) button{
+  background-color: lightgray;
+}e-through;
+  background-color: rgb(70, 70, 70)
+}
+
+li{
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:rgb(120, 120, 120);
+}
+.container{
+text-align: center;
+background-color: lightgrey;
+padding: 50px;
+}
+#add{
+  padding:5px;
+  background-color: gray;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.remove{
+  padding:5px;
+  background-color: gray;
+  border:none;
+  margin: 5px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li:nth-child(even) button{
+  background-color: lightgray;
+}
